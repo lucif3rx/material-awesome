@@ -10,7 +10,7 @@ return {
 		-- Default web browser
 		web_browser = 'env google-chrome',
 		-- Default text editor
-		text_editor = 'geany',
+		text_editor = 'leafpad',
 		-- Default file manager
 		file_manager = 'nautilus',
 		-- Default media player
