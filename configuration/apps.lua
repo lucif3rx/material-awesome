@@ -6,7 +6,7 @@ return {
 	-- The default applications that we will use in keybindings and widgets
 	default = {
 		-- Default terminal emulator
-		terminal = 'env terminator',
+		terminal = 'terminator',
 		-- Default web browser
 		web_browser = 'env google-chrome',
 		-- Default text editor
